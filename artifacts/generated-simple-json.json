@@ -1,0 +1,71 @@
+{
+    "header": "How do you interact with this space?",
+    "questions": [
+        {
+            "label": "What is the name of this place?",
+            "type": "esriQuestionTypeText"
+        },
+        {
+            "label": "Where is this place?",
+            "type": "esriQuestionTypeText"
+        },
+        {
+            "label": "What kind of place is this?",
+            "type": "esriQuestionTypeDropdown",
+            "choices": [
+                {
+                    "label": "School",
+                    "value": "School"
+                },
+                {
+                    "label": "Park",
+                    "value": "Park"
+                },
+                {
+                    "label": "Restaurant",
+                    "value": "Restaurant"
+                }
+            ]
+        },
+        {
+            "label": "How do you interact with this space?",
+            "type": "esriQuestionTypeDropdown",
+            "choices": [
+                {
+                    "label": "1",
+                    "value": "1"
+                },
+                {
+                    "label": "2",
+                    "value": "2"
+                },
+                {
+                    "label": "3",
+                    "value": "3"
+                }
+            ]
+        },
+        {
+            "label": "How important is this place to you?",
+            "type": "esriQuestionTypeDropdown",
+            "choices": [
+                {
+                    "label": "1",
+                    "value": "1"
+                },
+                {
+                    "label": "2",
+                    "value": "2"
+                },
+                {
+                    "label": "3",
+                    "value": "3"
+                }
+            ]
+        },
+        {
+            "label": "How many times per week do you visit this place?",
+            "type": "esriQuestionTypeNumber"
+        }
+    ]
+}

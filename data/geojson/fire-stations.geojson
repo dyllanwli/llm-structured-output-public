@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "STATION": "Brighouse",
+                "INFORMATION": "http://www.westyorksfire.gov.uk/stations/brighouse",
+                "Easting": "414189.9979",
+                "Northing": "423144.9948"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.785022,
+                    53.704317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "STATION": "Elland",
+                "INFORMATION": "http://www.westyorksfire.gov.uk/stations/elland",
+                "Easting": "411045.00115",
+                "Northing": "420553.9968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.832761,
+                    53.681102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "STATION": "Halifax",
+                "INFORMATION": "http://www.westyorksfire.gov.uk/stations/halifax",
+                "Easting": "407884.00205",
+                "Northing": "424132.0032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.880532,
+                    53.713322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "STATION": "Illingworth",
+                "INFORMATION": "http://www.westyorksfire.gov.uk/stations/illingworth",
+                "Easting": "407084.99685",
+                "Northing": "428741.0028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.892534,
+                    53.754765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "STATION": "Mytholmroyd",
+                "INFORMATION": "http://www.westyorksfire.gov.uk/stations/mytholmroyd",
+                "Easting": "401120.0011",
+                "Northing": "426149.9952"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.983021,
+                    53.731521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "STATION": "Todmorden",
+                "INFORMATION": "http://www.westyorksfire.gov.uk/stations/todmorden",
+                "Easting": "393790.00115",
+                "Northing": "424414.002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.094107,
+                    53.71588
+                ]
+            }
+        }
+    ]
+}

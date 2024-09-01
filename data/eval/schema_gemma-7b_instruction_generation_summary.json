@@ -1,0 +1,1 @@
+{"avg_score": 0.3267185304325157, "avg_key_score": 0.3700433268529523, "avg_value_score": 0.28339373401207885, "format_error_count": 8, "f1_score": 0.0, "recall": 0.0, "content_scores": {"completeness": 2.2653061224489797, "accuracy": 2.979591836734694, "granularity": 2.204081632653061, "consistency": 3.1020408163265305}, "edit_distance": 0.3022882351422489, "error_count": 2}
